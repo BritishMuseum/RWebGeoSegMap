@@ -10,3 +10,5 @@ Example Maps (based on example data) : Yellow to Red Map & Light Green to Dark G
 
 ![Alt Text](https://github.com/BritishMuseum/RWebGeoSegMap/blob/master/EXAMPLEYellowRedMap.jpg)
 ![Alt Text] (https://github.com/BritishMuseum/RWebGeoSegMap/blob/master/EXAMPLEGreenMap.jpg)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.163203.svg)](https://doi.org/10.5281/zenodo.163203)
