@@ -4,9 +4,7 @@ Website analytics geosegmentation map (visitors/visitors) using RSiteCatalyst (A
 #AdobeAnalyticsCountryVisitsMap.R
 Connecting to Adobe Analytics and creating website geosegmentation map
 
-Example (Based on Example Data)
-Yellow to red
-![Alt Text](https://github.com/BritishMuseum/RWebGeoSegMap/blob/master/EXAMPLEYellowRedMap.jpg)
+Example Maps (based on example data) : Yellow to Red Map & Light Green to Dark Green Map
 
-Light green to dark green
+![Alt Text](https://github.com/BritishMuseum/RWebGeoSegMap/blob/master/EXAMPLEYellowRedMap.jpg)
 ![Alt Text] (https://github.com/BritishMuseum/RWebGeoSegMap/blob/master/EXAMPLEGreenMap.jpg)
