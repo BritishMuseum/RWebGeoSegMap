@@ -10,10 +10,9 @@
 
 ###  :wrench:  :gift: [Code](https://github.com/BritishMuseum/RWebGeoSegMap/blob/master/AdobeAnalyticsCountryVisitsMap.R) 
 
-Example Maps (based on example data) : Yellow to Red Map & Light Green to Dark Green Map
+Example Maps (based on example data) 
 
-<img src="https://github.com/BritishMuseum/RWebGeoSegMap/blob/master/EXAMPLEYellowRedMap.jpg" width="150">
-<img src="https://github.com/BritishMuseum/RWebGeoSegMap/blob/master/EXAMPLEGreenMap.jpg" width="55">
+<img src="https://github.com/BritishMuseum/RWebGeoSegMap/blob/master/EXAMPLEYellowRedMap.jpg" width="150"><img src="https://github.com/BritishMuseum/RWebGeoSegMap/blob/master/EXAMPLEGreenMap.jpg" width="55">
 
 *Prerequisites : Download [R](https://www.r-project.org/) and [R studio desktop](https://www.rstudio.com/products/rstudio/download/) to get started.*
 
